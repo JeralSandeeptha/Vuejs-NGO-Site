@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <h1 class="-small-para">Jeral Sandeeptha</h1>
+  <router-view />
 </template>
 
 <style scoped>

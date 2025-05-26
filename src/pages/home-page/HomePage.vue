@@ -1,9 +1,9 @@
 <script setup>
-
+import App from '../../App.vue';
 </script>
 
 <template>
-    <h1>Home Page</h1>
+    Home Page
 </template>
 
 <style scoped>
