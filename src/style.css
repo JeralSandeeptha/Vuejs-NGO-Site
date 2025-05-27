@@ -36,7 +36,7 @@
     @apply font-bold text-[64px];
   }
   .heading-one {
-    @apply font-bold text-[56px];
+    @apply font-bold md:text-[56px] text-[40px];
   }
   .heading-two {
     @apply font-bold text-[48px];
