@@ -3,7 +3,9 @@
 </script>
 
 <template>
-    Inner Container
+    <div class="max-w-[85%] mx-auto">
+        <slot></slot>
+    </div>
 </template>
 
 <style scoped>

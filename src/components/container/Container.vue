@@ -3,7 +3,9 @@
 </script>
 
 <template>
-    Container
+    <div class="w-full-red-100">
+        <slot></slot>
+    </div>
 </template>
 
 <style scoped>
