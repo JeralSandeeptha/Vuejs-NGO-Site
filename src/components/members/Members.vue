@@ -25,7 +25,7 @@ onMounted(() => {
             <h5 class="small-para text-[gray] text-center md:w-[80%]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.</h5>
         </div>
         <div class="w-full min-h-[50vh]">
-            <div v-if="members.length !== 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 md:gap-5">
+            <div v-if="members.length !== 0" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-5">
                 <SingleMember :key="member.id" v-for="member in members" :member="member"/>
             </div>
             <div class="w-full" v-if="members.length === 0">
