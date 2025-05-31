@@ -1,9 +1,9 @@
 <script setup>
-
+import Members from '../../components/members/Members.vue';
 </script>
 
 <template>
-    <h1>About Page</h1>
+    <Members />
 </template>
 
 <style scoped>

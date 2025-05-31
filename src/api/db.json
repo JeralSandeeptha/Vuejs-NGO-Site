@@ -1,0 +1,103 @@
+{
+  "members": [
+    {
+      "id":"1",
+      "name": "Leonard John Davies",
+      "position": "Cofounder, CEO",
+      "image":"https://images.unsplash.com/photo-1599566147214-ce487862ea4f?q=80&w=2147&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"2",
+      "name": "Francis Weber",
+      "position": "Vice Chairman",
+      "image":"https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"3",
+      "name": "Kyla Obrien",
+      "position": "Head of Authority",
+      "image":"https://plus.unsplash.com/premium_photo-1689551671541-31a345ce6ae0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"4",
+      "name": "Adrian Dixon",
+      "position": "Support Executive",
+      "image":"https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"5",
+      "name": "Freddy Busby",
+      "position": "Project Manager",
+      "image":"https://images.unsplash.com/photo-1558898479-33c0057a5d12?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"6",
+      "name": "Dale Banks",
+      "position": "Accountant, Finance",
+      "image":"https://images.unsplash.com/photo-1663893364107-a6ecd06cf615?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"7",
+      "name": "Miriam Middleton",
+      "position": "Cofounder, CEO",
+      "image":"https://images.unsplash.com/photo-1640951613773-54706e06851d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"8",
+      "name": "Ellen Walton",
+      "position": "Vice Chairman",
+      "image":"https://images.unsplash.com/photo-1628157588553-5eeea00af15c?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    },
+    {
+      "id":"8",
+      "name": "Jeral Sandeeptha",
+      "position": "Director of Engineering",
+      "image":"https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "social": {
+        "facebook": true,
+        "twitter": true,
+        "linkedin": true
+      }
+    }
+  ]
+}
